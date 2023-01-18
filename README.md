@@ -1,7 +1,7 @@
 # first install dependences
 
 ```
-npm install
+npm install 
 ```
 
 # script
